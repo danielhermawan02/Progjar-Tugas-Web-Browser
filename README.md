@@ -9,3 +9,6 @@
 - show respective HTTP error messages
 - open a web page that is protected by HTTP Basic Authentication
 - can access a web page that is protected behind a login page
+
+Note : 
+You may use Java or any other programming language, but you are NOT ALLOWED to use any HTTP helper library. You need to use the raw socket library provided by the programming language.
